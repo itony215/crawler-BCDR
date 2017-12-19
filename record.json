@@ -1153,41 +1153,23 @@
 {"id": 896, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 4", "shape": "1.391", "image_url": "http://bcdr.inegi.up.pt/images/film/86d592a7-94d5-45a5-865b-bb77ac234c76_1175_overlay.jpg", "source": "BCDR"},
 
 {"id": 897, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 4", "shape": "1.213", "image_url": "http://bcdr.inegi.up.pt/images/film/6cf9fc46-bb6e-44f5-9b6a-18726260cbd3_1174_overlay.jpg", "source": "BCDR"},
-
 {"id": 898, "breast_laterality": "right", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.168", "image_url": "http://bcdr.inegi.up.pt/images/film/0cd1400b-ace5-4d35-9df9-8765c155e008_1172_overlay.jpg", "source": "BCDR"},
-
 {"id": 900, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.146", "image_url": "http://bcdr.inegi.up.pt/images/film/070697d4-5446-4514-ac7e-3d665efcfb67_1171_overlay.jpg", "source": "BCDR"},
-
 {"id": 901, "breast_laterality": "right", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 6", "shape": "1.309", "image_url": "http://bcdr.inegi.up.pt/images/film/55700692-18ef-4170-86d9-b299429afd10_679_overlay.jpg", "source": "BCDR"},
-
 {"id": 903, "breast_laterality": "right", "asymmetry_type": "stroma_distortion", "BIARDS_category": "BIRADS 3", "shape": "2.062", "image_url": "http://bcdr.inegi.up.pt/images/film/c9eea9e1-31c3-4a47-8770-2fb69bf1575c_685_overlay.jpg", "source": "BCDR"},
-
 {"id": 904, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 2", "shape": "1.136", "image_url": "http://bcdr.inegi.up.pt/images/film/035ff673-85f8-4b71-b054-e2b9e0a9e43c_1271_overlay.jpg", "source": "BCDR"},
-
 {"id": 905, "breast_laterality": "right", "asymmetry_type": "calcification", "BIARDS_category": "BIRADS 2", "shape": "1.212", "image_url": "http://bcdr.inegi.up.pt/images/film/f70ef51e-8afe-45e8-bbcc-1c78b4915e8a_1268_overlay.jpg", "source": "BCDR"},
-
 {"id": 906, "breast_laterality": "right", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.162", "image_url": "http://bcdr.inegi.up.pt/images/film/981cbeaf-61c5-4f81-a1ac-fa6893a306c1_1170_overlay.jpg", "source": "BCDR"},
-
 {"id": 907, "breast_laterality": "right", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.156", "image_url": "http://bcdr.inegi.up.pt/images/film/c1bae452-6f2e-468a-a42a-45ee92cf24ca_687_overlay.jpg", "source": "BCDR"},
-
 {"id": 908, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.256", "image_url": "http://bcdr.inegi.up.pt/images/film/d8dcb851-d90b-47e3-ac99-42af17418c63_691_overlay.jpg", "source": "BCDR"},
-
 {"id": 912, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 4", "shape": "1.256", "image_url": "http://bcdr.inegi.up.pt/images/film/c119a6f6-dd73-4f02-9ccd-db4b6e47b567_1169_overlay.jpg", "source": "BCDR"},
-
 {"id": 913, "breast_laterality": "right", "asymmetry_type": "microcalcification", "BIARDS_category": "BIRADS 2", "shape": "1.092", "image_url": "http://bcdr.inegi.up.pt/images/film/4c5878fd-630c-49a5-8579-199e1f989f54_1166_overlay.jpg", "source": "BCDR"},
-
 {"id": 914, "breast_laterality": "right", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 4", "shape": "1.505", "image_url": "http://bcdr.inegi.up.pt/images/film/1e9084ec-09dc-4cb2-8374-3f733ea0abb6_693_overlay.jpg", "source": "BCDR"},
-
 {"id": 917, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 1", "shape": "1.238", "image_url": "http://bcdr.inegi.up.pt/images/film/e0b1b7f0-956f-4604-9da1-ce9abbcf40f2_699_overlay.jpg", "source": "BCDR"},
-
 {"id": 920, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.140", "image_url": "http://bcdr.inegi.up.pt/images/film/236005f2-539a-4a23-bfd5-714278ecfefd_1165_overlay.jpg", "source": "BCDR"},
-
 {"id": 921, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.210", "image_url": "http://bcdr.inegi.up.pt/images/film/99750549-27d7-44aa-b4c2-9441b263bc73_1267_overlay.jpg", "source": "BCDR"},
-
 {"id": 922, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.142", "image_url": "http://bcdr.inegi.up.pt/images/film/29121cf7-dcb2-4928-8378-6e0a6773b632_1162_overlay.jpg", "source": "BCDR"},
-
 {"id": 923, "breast_laterality": "left", "asymmetry_type": "stroma_distortion", "BIARDS_category": "BIRADS 4", "shape": "1.183", "image_url": "http://bcdr.inegi.up.pt/images/film/fe815ca5-54f5-4417-aa34-24d7007da838_703_overlay.jpg", "source": "BCDR"},
-
 {"id": 924, "breast_laterality": "left", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.109", "image_url": "http://bcdr.inegi.up.pt/images/film/f318c1ca-29cf-4c65-88c7-53e33524c911_1158_overlay.jpg", "source": "BCDR"},
 {"id": 925, "breast_laterality": "right", "asymmetry_type": "nodule", "BIARDS_category": "BIRADS 3", "shape": "1.175", "image_url": "http://bcdr.inegi.up.pt/images/film/eac350d5-045f-4df4-bd0f-3af052ef00cf_707_overlay.jpg", "source": "BCDR"},
 {"id": 926, "breast_laterality": "left", "asymmetry_type": "microcalcification", "BIARDS_category": "BIRADS 4", "shape": "1.235", "image_url": "http://bcdr.inegi.up.pt/images/film/5d6f2eed-9610-49a3-a012-dfe9aeafe07b_711_overlay.jpg", "source": "BCDR"},
